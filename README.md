@@ -9,7 +9,7 @@
 
 <a href='https://smartfreeedit.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 [![arXiv](https://img.shields.io/badge/arXiv-2504.12704-b31b1b.svg)](https://arxiv.org/abs/2504.12704)
-[![Huggingface space](https://img.shields.io/badge/🤗-Huggingface%20Space-orange.svg)](https://huggingface.co/spaces/SUNQ111/SmartFreeEdit) 
+[![Huggingface space](https://img.shields.io/badge/🤗-Huggingface%20Space-orange.svg)](https://huggingface.co/SUNQ111/SmartFreeEdit/tree/main) 
 
 </div>
 

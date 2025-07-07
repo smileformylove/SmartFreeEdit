@@ -11,6 +11,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2504.12704-b31b1b.svg)](https://arxiv.org/abs/2504.12704)
 [![Huggingface space](https://img.shields.io/badge/🤗-Huggingface%20Space-orange.svg)](https://huggingface.co/SUNQ111/SmartFreeEdit/tree/main) 
 
+
 </div>
 
 <p>
@@ -26,15 +27,9 @@ We propose SmartFreeEdit to address the challenge of reasoning instructions and 
 
 # ⏱️ Update News
 
+- [2025.7.07] Webpage has been released!
 - [2025.7.05] Our paper has been accpeted by ACMMM'2025 and Code for image editing is released!
 - [2025.4.17] Our paper has been released on [arxiv Papers](https://arxiv.org/abs/2504.12704) and is currently under review for ACM Multimedia 2025 (ACMMM 2025).
-
-# 📌 ToDo
-
-- ⬜ Release the trainig and inference code.
-- ⬜ Release the gradio demo and webpage.
-- ⬜ Release the checkpoint.
-- ⬜ Release the paper.
 
 
 # 📖 Pipeline
